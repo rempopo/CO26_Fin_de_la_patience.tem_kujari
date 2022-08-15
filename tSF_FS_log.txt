@@ -1,5 +1,5 @@
 "####### tSF File Sweeper Engaged #######" 
-Mission directory:     J:\TacShift\CO26_Fin_de_la_patience.tem_kujari\ 
+Mission directory:     C:\Users\Arsdor\Documents\Arma 3\mpmissions\CO26_Fin_de_la_patience.tem_kujari\ 
 Mission fodler name:   CO26_Fin_de_la_patience 
 Removing tSF Helpers 
 Removing DynAI Helpers 

@@ -224,6 +224,32 @@ kit_boko_haram_sl = [
 	,["<IDENTITY >>", ["Barklem","TanoanHead_A3_03","TanoanHead_A3_04","AfricanHead_02","AfricanHead_03","TanoanHead_A3_07","cwr3_face_hammer","TanoanHead_A3_01","TanoanHead_A3_06","TanoanHead_A3_08","AfricanHead_01"], ["male01fre","male02fre","male03fre"], ""]
 ];
 
+//Chad Civilians
+
+kit_chad_civ = [
+	["<EQUIPEMENT >>  ",["U_C_Poloshirt_blue","U_C_Poloshirt_burgundy","U_C_Poloshirt_redwhite","U_C_Poloshirt_salmon","U_C_Poloshirt_stripped","U_C_Poloshirt_tricolour","U_C_ArtTShirt_01_v5_F","U_C_ArtTShirt_01_v6_F","U_C_Man_casual_2_F","U_C_Man_casual_3_F","U_C_Man_casual_1_F"],"","","",""],
+	["<PRIMARY WEAPON >>  ","","",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","","",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[]],
+	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["Barklem","TanoanHead_A3_03","TanoanHead_A3_04","AfricanHead_02","AfricanHead_03","TanoanHead_A3_07","cwr3_face_hammer","TanoanHead_A3_01","TanoanHead_A3_06","TanoanHead_A3_08","AfricanHead_01"], ["male01fre","male02fre","male03fre"], ""]
+];
+
+kit_chad_civ_rich = [
+	["<EQUIPEMENT >>  ",["U_C_FormalSuit_01_tshirt_gray_F","U_C_FormalSuit_01_gray_F","U_C_FormalSuit_01_black_F","U_C_FormalSuit_01_blue_F","U_C_FormalSuit_01_khaki_F","U_C_FormalSuit_01_tshirt_black_F","CUP_U_C_Suit_01","CUP_U_C_Suit_02","CUP_U_C_Suit_03"],"","",["H_Hat_grey","H_Hat_tan","H_Hat_blue"],""],
+	["<PRIMARY WEAPON >>  ","","",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","","",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[]],
+	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["Barklem","TanoanHead_A3_03","TanoanHead_A3_04","AfricanHead_02","AfricanHead_03","TanoanHead_A3_07","cwr3_face_hammer","TanoanHead_A3_01","TanoanHead_A3_06","TanoanHead_A3_08","AfricanHead_01"], ["male01fre","male02fre","male03fre"], ""]
+];
+
 //Cargo
 
 cargo_kit_aml90 = [
@@ -244,5 +270,12 @@ cargo_kit_chad_technical = [
 	[["CUP_launch_RPG26_Loaded",2]],
 	[["ACE_20Rnd_762x51_Mag_Tracer",10],["rhs_30Rnd_545x39_AK_green",15],["CUP_1Rnd_HE_GP25_M",10],["rhs_mag_rgo",2],["rhs_mag_rgn",2],["10Rnd_762x54_Mag",10],["rhs_mag_rgd5",3],["rhs_mag_rdg2_black",2],["CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M",4],["sp_fwa_20Rnd_9mm_HiPower",1],["sp_fwa_13Rnd_9mm_HiPower",1]],
 	[["ToolKit",1],["ACE_Canteen",6],["ACE_fieldDressing",5],["ACE_elasticBandage",5],["ACE_packingBandage",5],["ACE_quikclot",5],["ACE_tourniquet",2]],
+	[]
+];
+
+cargo_kit_small_box = [
+	[],
+	[["rhs_mag_rgd5",2],["rhs_30Rnd_762x39mm_bakelite",9]],
+	[],
 	[]
 ];
